@@ -1,0 +1,84 @@
+"In the superposition theorem, what is the final value of the capacitor voltage ($V_C$) in a circuit with both DC (20V) and AC (10 sin 377t) sources?",The final voltage is the sum of the DC steady-state value and the AC response: $V_C = 20 + 8 \sin(377t - 37^\circ)V$.
+"For a balanced wye-wye system with $V_{an} = 120\angle0^\circ$V and $Z_A = 12\angle0^\circ\Omega$, what is the line current $I_A$?",$I_A = \frac{V_{an}}{Z_A} = \frac{120\angle0^\circ}{12\angle0^\circ} = 10\angle0^\circ$A.
+What is the formula for calculating the neutral current ($I_N$) in a balanced three-phase wye-connected system?,"In a balanced system, the neutral current is the vector sum of the line currents, which equals zero: $I_N = I_A + I_B + I_C = 0$."
+"To achieve maximum power transfer in an AC circuit, the load impedance ($Z_L$) must be what in relation to the Thevenin impedance ($Z_{Th}$)?","The load impedance ($Z_L$) must be the complex conjugate of the Thevenin impedance ($Z_{Th}$). For $Z_{Th} = R_{Th} + jX_{Th}$, $Z_L = R_{Th} - jX_{Th}$."
+"In DC motor and generator calculations, the machine constant 'k' is determined by the formula _____, where N is the number of turns per coil, p is the number of poles, and a is the number of parallel paths.",$k = \frac{Np}{a\pi}$
+"The induced voltage ($E_A$) in a DC generator is a function of the machine constant (k), magnetic flux ($\phi$), and angular velocity ($\omega_m$), given by the equation: _____.",$E_A = k \cdot \phi \cdot \omega_m$
+"For a three-phase SCR drive for a DC motor, what is the equation for the average output voltage ($V_{avg}$) in terms of the peak line-to-neutral voltage ($V_m$) and the firing angle ($\alpha$)?",$V_{avg} = (\frac{3\sqrt{3}}{2\pi}) \cdot V_m \cdot \cos(\alpha)$
+"In transformer analysis, what is the formula for the turns ratio 'a' based on the primary ($V_1$) and secondary ($V_2$) voltages?",$a = \frac{V_1}{V_2}$
+"To find the Thevenin equivalent impedance ($Z_{th}$) for a transformer matching a source impedance ($Z_1$) to a load impedance ($Z_L$), the required turns ratio 'a' is calculated as _____.",$a = \sqrt{\frac{Z_1}{Z_L}}$
+The percentage regulation of a transformer is calculated using the formula: _____.,% regulation = $\frac{(V_{input} - V_{output})}{V_{input}} \times 100\%$
+"What formula is used to calculate the air gap power ($P_{ag}$) in a three-phase induction motor, given the mechanical power developed ($P_m$) and the slip (s)?",$P_{ag} = \frac{P_m}{(1 - s)}$
+The rotor copper loss ($P_{cu2}$) in an induction motor is directly proportional to the slip (s) and the air gap power ($P_{ag}$) according to the formula: _____.,$P_{cu2} = s \cdot P_{ag}$
+The synchronous speed ($N_s$) of an induction motor in RPM is determined by the frequency (f) and the number of poles (p) using which formula?,$N_s = \frac{120f}{p}$
+What is the formula for the torque (T) developed by an induction motor in terms of air gap power ($P_{ag}$) and synchronous angular speed ($\omega_s$)?,$T = \frac{P_{ag}}{\omega_s}$
+"In power system analysis, what does the term 'slack bus' (or swing bus) refer to?","The slack bus is a reference bus in the power system for which the voltage magnitude and phase angle are specified, and it supplies the transmission losses."
+What is the formula for the inductive reactance per meter ($L_T$) of a two-wire transmission line with conductor spacing D and geometric mean radius r'?,$L_T = (4 \times 10^{-7}) \ln(\frac{D}{r'})$ H/m
+"The total capacitance to neutral ($C$) for a three-conductor transmission line can be calculated using the formula $C = \pi \epsilon / \ln(\frac{D}{a})$, where D is the spacing and a is the conductor ____.",radius
+"In South Africa, what is the primary function of the CCMA (Commission for Conciliation, Mediation and Arbitration)?","The CCMA is a dispute resolution body that handles labour disputes through processes like conciliation, mediation, and arbitration."
+What does QCTO stand for in the context of South African education?,Quality Council for Trades and Occupations.
+What is the purpose of the National Qualifications Framework (NQF) in South Africa?,The NQF is a framework on which standards and qualifications are registered to provide a basis for improving the quality and transparency of education and training.
+"In the context of electrical design, what is the purpose of a short-circuit analysis?",To determine the available fault current at each bus to ensure equipment has adequate short-circuit interrupting ratings.
+What formula relates horsepower (HP) to torque (in lb.ft) and revolutions per minute (RPM) for a motor?,Torque = $\frac{(HP \times 5250)}{RPM}$
+"What is the formula to calculate the reactive power (kVAR) needed to improve a system's power factor from pf1 to pf2, given the initial kVA?",kVAR = $kVA \times (\sqrt{1 - pf1^2} - \frac{pf1}{pf2} \times \sqrt{1 - pf2^2})$
+The slip 's' of an induction motor is calculated by the formula: _____.,"$s = \frac{(N_s - N_r)}{N_s}$, where $N_s$ is synchronous speed and $N_r$ is rotor speed."
+"In a three-phase system, the apparent power (kVA) is calculated using line-to-line voltage (V) and line current (I) with the formula: _____.",$kVA = \frac{(V \times I \times \sqrt{3})}{1000}$
+What is the definition of 'all-day efficiency' for a transformer?,It is the ratio of the total energy output (kWh) over a 24-hour period to the total energy input (kWh) over the same period.
+"The propagation constant, $\gamma$, for a long transmission line is calculated using the formula _____, where Z is the series impedance and Y is the shunt admittance.",$\gamma = \sqrt{ZY}$
+What is the characteristic impedance ($Z_c$) of a transmission line?,It is the square root of the ratio of the series impedance (Z) to the shunt admittance (Y) per unit length: $Z_c = \sqrt{\frac{Z}{Y}}$.
+"In electrical design, what is the purpose of a load calculation?","To sum all connected loads, including allowances for future growth, to properly size feeders, protective devices, transformers, and service entrances."
+What is the NEC (National Electrical Code) requirement for sizing conductors for continuous loads?,The ampacity of the conductor must be at least 125% of the continuous load.
+"For a DC motor, how is the terminal voltage ($V_T$) calculated for a generator, given the induced voltage ($E_A$), armature current ($I_L$), and armature resistance ($R_a$)?","For a generator, the terminal voltage is the induced voltage minus the voltage drop across the armature: $V_T = E_A - I_L R_a$."
+"The torque ($T_{acc}$) required to accelerate a motor's inertia ($J$) is given by the formula _____, where $\frac{d\omega}{dt}$ is the rate of change of angular velocity.",$T_{acc} = J \frac{d\omega}{dt}$
+"What is the relationship between real power (W), apparent power (VA), and power factor (pf) in a single-phase AC circuit?",Real power is the product of apparent power and the power factor: W = VA $\times$ pf.
+"The Thevenin voltage ($E_{Th}$) for a circuit with two impedances ($Z_1$, $Z_2$) and a source voltage (E) is found by the voltage divider rule: _____.",$E_{Th} = \frac{E \cdot Z_2}{(Z_1 + Z_2)}$
+"The slip at which maximum torque occurs ($S_{Tmax}$) in an induction motor can be calculated using the formula _____, where R'2 is rotor resistance and Xth and X'2 are reactances.",$S_{Tmax} = \frac{R'_2}{\sqrt{R_{th}^2 + (X_{th} + X'_2)^2}}$
+"In South African education, what does SETA stand for?",Sector Education and Training Authority.
+The daily load factor ($LF_D$) is the ratio of the daily load energy (in GWH) to the _____ multiplied by 24 hours.,daily peak demand (in GW)
+What is the purpose of Potier reactance ($X_p$) in synchronous generator analysis?,It is used to account for the armature leakage reactance and the effect of armature reaction under load conditions to determine the excitation voltage.
+"The formula for the maximum power output ($P_{max}$) of a synchronous generator connected to an infinite bus is _____, where E is internal voltage, V is bus voltage, and X is reactance.","$P_{max} = \frac{3EV}{X} \sin(\delta)$, with maximum power occurring when $\delta = 90^\circ$."
+"In lighting design, what is the 'coefficient of utilization' (CU)?",The ratio of the luminous flux (lumens) from a luminaire that reaches the work plane to the luminous flux emitted by the lamps alone.
+"The average illuminance (E) in footcandles can be calculated using the formula: E = (N $\times$ LL $\times$ LF $\times$ BF $\times$ TF) / A, where N is the number of lamps, LL is rated lumens, and A is the ____.",lighted area
+"In South Africa, what is the role of SAQA (South African Qualifications Authority)?",SAQA's role is to oversee the development and implementation of the National Qualifications Framework (NQF).
+The term for vocational programs in South Africa that combine theoretical instruction with practical workplace experience is _____.,Learnerships
+"In network analysis, what does the Newton-Raphson method solve?","It is an iterative numerical technique used to solve systems of non-linear equations, commonly applied to power-flow problems in electrical grids."
+The open-circuit voltage ($E_{oc}$) of a lead-acid battery cell can be estimated using its specific gravity (SG) with the formula: _____.,$E_{oc} = 0.84 + SG$
+"In transformer efficiency calculations, what are the two main types of losses considered?","Iron losses (or core losses), which are constant, and copper losses (or $I^2R$ losses), which vary with the load."
+What is the primary function of a database management system (DBMS)?,"To create, maintain, and provide controlled access to a database, managing the storage, retrieval, and updating of data."
+"In the context of PC hardware, what does RAID stand for?",Redundant Array of Independent Disks.
+What is the purpose of a UPS (Uninterruptible Power Supply)?,"To provide emergency power to a load when the input power source fails, typically for a short duration to allow for safe shutdown or transfer to a generator."
+"In digital electronics, what is the Boolean algebra expression for an AND gate with inputs A and B and output Z?",$Z = A \cdot B$
+What is the primary difference between analog and digital computers?,"Analog computers process data that varies continuously (like voltage or pressure), while digital computers process data in discrete, binary form (0s and 1s)."
+"The resonance frequency ($f_0$) of a series RLC circuit is given by the formula _____, where L is inductance and C is capacitance.",$f_0 = \frac{1}{2\pi\sqrt{LC}}$
+What is a 'Gantt chart' used for in project management?,"A Gantt chart is a type of bar chart that illustrates a project schedule, showing the start and finish dates of terminal elements and summary elements of a project."
+"The term for a fraudulent scheme involving taxes, energy, or engine values is _____, as listed in the source material's 'Sales by Item' report.",Fiscal fraude
+"In a Delta-Wye transformer connection, what is the phase shift between the primary and secondary line voltages?",There is a 30-degree phase shift between the primary and secondary line voltages.
+What is the role of a 'commissioner of oaths' in legal proceedings?,"A commissioner of oaths is a person authorized to witness the signing of legal documents and administer oaths or affirmations, such as for an affidavit."
+"In programming, what is the difference between a local and a global variable?","A local variable is defined within a specific function and can only be accessed there, while a global variable is defined outside of any function and can be accessed throughout the program."
+What does API stand for in the context of software development?,Application Programming Interface.
+The process of converting binary numbers to hexadecimal involves grouping the binary digits into sets of _____.,four
+What is the purpose of the 'chmod' command in Unix-like operating systems?,The 'chmod' (change mode) command is used to change the access permissions of files and directories.
+"In the context of the South African private security industry, what does PSIRA stand for?",Private Security Industry Regulatory Authority.
+What is the primary purpose of a firewall in network security?,A firewall is a network security device that monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules.
+"In circuit analysis, a voltage drop across a resistor is calculated by multiplying the current flowing through it by its resistance, a principle known as _____.",Ohm's Law ($V=IR$)
+What does the term 'cogeneration' refer to in power systems?,"Cogeneration, also known as combined heat and power (CHP), is the simultaneous production of electricity and another form of useful energy (such as heat or steam) from the same fuel source."
+The efficiency of a cogeneration plant is calculated as the total useful energy output (Power + Heat) divided by the ____.,total fuel energy input ($Q_{in}$)
+"In financial analysis, what does the term 'depreciation' represent?",Depreciation is an accounting method of allocating the cost of a tangible asset over its useful life and is used to account for declines in value.
+What is the fundamental accounting equation that forms the basis of the balance sheet?,Assets = Liabilities + Equity
+What does TVET stand for in the context of global education systems?,Technical and Vocational Education and Training.
+"In South Africa, what is the 'National Senior Certificate' (NSC)?","The National Senior Certificate is the main school-leaving certificate in South Africa, commonly known as the 'matric' certificate."
+What is the role of an 'assessor' in the context of TVET qualifications?,An assessor evaluates a learner's performance or evidence against prescribed criteria to determine if they are competent and have met the requirements of a qualification.
+"The formula for calculating the current ($I$) in a DC motor is given by $I = (V_t - E_A) / R_a$, where $V_t$ is terminal voltage, $E_A$ is back EMF, and $R_a$ is _____.",armature resistance
+What is the function of a 'capacitor' in an electronic circuit?,A capacitor is a passive electronic component that stores electrical energy in an electric field.
+"In a three-phase system, what is the main advantage of a delta connection over a wye connection?","A delta connection provides higher reliability, as it can continue to operate in an 'open delta' configuration if one phase is lost, albeit at a reduced capacity."
+The term _____ refers to the legal process of setting aside or cancelling a previous court order or ruling.,rescission
+What does DHET stand for in the South African government?,Department of Higher Education and Training.
+"The _____ of an overhead power line is the property that opposes changes in current, caused by the magnetic field produced by the current.",inductance
+What is the primary function of a transformer in an electrical power system?,"A transformer is a static device that transfers electrical energy from one circuit to another through electromagnetic induction, typically to change the voltage level."
+The equation for calculating the impedance ($Z$) of a series RLC circuit is _____.,$Z = \sqrt{R^2 + (X_L - X_C)^2}$
+What is the purpose of 'grounding' or 'earthing' in an electrical system?,"It provides a safety measure by creating a path for fault currents to flow to the earth, preventing dangerous voltages on equipment enclosures."
+The total power ($P_T$) in a balanced three-phase system is calculated as _____ times the power of a single phase.,three
+What is the function of the 'superheater' in a steam-based power plant?,"The superheater increases the temperature of the steam above its saturation point, improving the thermodynamic efficiency of the turbine."
+"The term _____ refers to unwanted, high-frequency signals that can interfere with the proper operation of electronic circuits.",harmonics or harmonic distortion
+"In project management, what does the term 'critical path' refer to?","The sequence of stages determining the minimum time needed for an operation, where any delay in a critical path task directly delays the project completion."
+What is the main function of the 'busbar' in an electrical switchboard or substation?,"A busbar is a metallic strip or bar that conducts electricity within a switchboard, substation, or other electrical apparatus, allowing for the distribution of power to multiple circuits."

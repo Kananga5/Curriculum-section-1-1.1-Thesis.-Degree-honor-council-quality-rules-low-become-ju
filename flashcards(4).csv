@@ -1,0 +1,123 @@
+What is the primary focus of Andragogy as a theory of adult learning?,"It focuses on teaching strategies tailored specifically for adult learners, contrasting with pedagogy for children."
+"The South African Qualifications Authority, responsible for overseeing the development and implementation of the National Qualifications Framework (NQF), is known as _____.",SAQA
+"In South African vocational education, what does the acronym NATED stand for?",National Accredited Technical Education Diploma.
+How does a National Certificate Vocational (NCV) program differ from a NATED program in terms of educational level?,"NCV programs are vocational training equivalents for Grades 10–12, while NATED programs (N1-N6) offer post-school technical education."
+"In the context of the state-space representation of a linear system, what does the matrix 'A' represent in the equation $\dot{\mathbf{x}}(t) = \mathbf{A}(t)\mathbf{x}(t) + \mathbf{B}(t)\mathbf{u}(t)$?","The state matrix, which describes the system's internal dynamics."
+"The transfer function of a linear time-invariant system can be calculated from its state-space model using the formula $G(s) = C(sI - A)^{-1}B + D$. What do the roots of the characteristic polynomial, $|sI - A|$, represent?","The poles of the system's transfer function, which are used to analyze stability."
+What condition must be met for a continuous time-invariant linear state-space model to be considered 'controllable'?,"The rank of the controllability matrix $[B, AB, A^2B, ..., A^{n-1}B]$ must be equal to the number of state variables, n."
+What is the purpose of a Rear Transition Module (RTM) in an AdvancedTCA shelf architecture?,RTMs plug into the back of the shelf and interconnect with the front boards through a Zone-3 connector.
+"In an AdvancedTCA backplane, the _____ Interface is typically used to move data between the boards and the outside network and supports fabrics like Ethernet, Fibre Channel, or PCI Express.",Fabric
+"In Total Productive Maintenance (TPM), what is the primary goal of establishing an autonomous maintenance program for operations?","To empower operators to conduct routine maintenance, cleaning, and inspection on their own equipment, preventing breakdowns."
+"According to the SANS 10142 standard, what is the maximum current density that copper busbars must not exceed for currents up to 1600A?",The current density must not exceed 2 A/mm².
+What is the function of a Residual Current Device (RCD) in an electrical installation as mandated by safety standards?,"An RCD provides overcurrent protection by automatically opening a switch when it detects an earth leakage current, preventing electric shock."
+"In Visual Basic for Applications (VBA), a graphical representation of a decision-making process or workflow is often referred to as a _____.",Logigramme
+What is the term for a procedural flowchart in VBA that breaks down the sequential steps of a process?,Algorigramme
+"In control systems theory, what is the state-space equation for the rotational velocity ($\{\dot{x}}_2(t)$) of a simple pendulum with damping?",$\dot{x}_2(t) = -\frac{g}{\ell} \sin{x_1(t)} - \frac{k}{m\ell} x_2(t)$
+What is the primary purpose of a psychometric test in the context of career guidance and vocational assessment?,"To measure a candidate's cognitive abilities, personality traits, and aptitudes to determine their suitability for specific job roles."
+"In South African labour law, which body is responsible for conciliation, mediation, and arbitration of labour disputes?","The Commission for Conciliation, Mediation and Arbitration (CCMA)."
+"The Protection of Personal Information Act (POPIA) in South Africa requires employers to ensure that personal information collected from employees is protected against risks such as _____, _____, or _____.","loss, damage, destruction, or unauthorised access"
+What is the primary function of a circuit breaker in a star-delta starter configuration for an electric motor?,To protect the circuit from overcurrent during both the initial star connection (reduced voltage) and the final delta connection (full voltage).
+What is the formula for calculating impedance (Z) in an AC circuit with resistance (R) and reactance (X)?,$Z = \sqrt{R^2 + X^2}$
+"In manufacturing engineering, _____ is the process of creating detailed instructions for producing a part, including the sequence of operations, machine tools, and tooling required.",process planning
+What is the key advantage of using High-Voltage Direct Current (HVDC) for long-distance electricity transmission compared to HVAC?,HVDC technology offers greater efficiency over longer distances by reducing energy loss due to resistance.
+The open communication protocol designed for Advanced Metering Infrastructure (AMI) that facilitates high-speed data exchange over Power Line Communication (PLC) networks is called _____.,Meters and More
+"In the context of cybersecurity and risk management, what framework does the NIST SP 800-53 publication provide?",It provides a catalog of security and privacy controls for information systems and organizations to manage risk.
+"In C++ programming, the `auto` keyword is used to instruct the compiler to _____.",deduce the type of a variable from its initializer automatically
+"A _____ is a modular, three-phase UPS that delivers top performance for edge, small, and medium data centers, as well as critical infrastructure.",Galaxy VS
+What is the purpose of the Quality Council for Trades and Occupations (QCTO) in South Africa?,To ensure that occupational qualifications are competency-based and aligned with the specific requirements of jobs in the industry.
+"In semiconductor manufacturing, what is an Electrical Digital Twin?","A virtual model of a physical electrical distribution system used for simulation, analysis, and optimization before and during operation."
+What is the primary objective of a Learning Management System (LMS) in an educational institution?,"To administer, document, track, report, automate, and deliver educational courses and training programs."
+What is the general mass balance equation for a steady-state process where accumulation is zero?,Input + Generation = Output + Consumption.
+Faraday's law of electromagnetic induction states that the induced electromotive force (EMF) in any closed circuit is equal to the negative of the time rate of change of the _____ through the circuit.,magnetic flux
+Formula: $E = B \cdot L \cdot v$. What does this formula from Faraday's law calculate?,The electromotive force (E) induced in a conductor of length (L) moving at velocity (v) through a magnetic field (B).
+What does the IP rating (Ingress Protection) on electrical equipment signify?,It classifies the degree of protection provided against intrusion from solid objects (like dust) and liquids (like water).
+What is the purpose of a 'functional flow block diagram' in systems engineering?,"To define the tasks, sequence, and relationships of system functions over time."
+"In military and defense applications, what is the purpose of a thermal shock test for microelectronics?",To assess the reliability of a device's assembly and seals when exposed to rapid and extreme temperature changes.
+The South African Police Service (SAPS) mandate is derived from section 205 of the Constitution. What are its primary objectives?,"To prevent, combat, and investigate crime; maintain public order; and protect and secure the inhabitants of the Republic and their property."
+What is the purpose of the Private Security Industry Regulation Act (PSIRA) in South Africa?,To regulate the private security industry and to exercise effective control over the practice of the occupation of security service providers.
+"In workplace-based learning, what is the term for an error or deviation from prescribed assessment procedures that can invalidate results?",Irregularity
+"A _____ is a legal document in South Africa obtained from a court to protect a person from violence, threats, or harassment from another person.",protection order
+What is the role of an 'assessor' in the context of South Africa's SETA (Sector Education and Training Authority) framework?,To evaluate a learner's competence against a set of standards or qualifications and determine if they have achieved the required outcomes.
+What is the primary function of a 'moderator' within the SETA assessment system?,"To ensure that the assessment process is fair, valid, and reliable by reviewing the practices and judgements of assessors."
+What key advantage did the 2G (Second Generation) mobile network offer over the 1G network?,"2G introduced digital transmission, which allowed for encrypted communication and data services like SMS and MMS."
+"In a Visual Basic UserForm, what is the purpose of an event-driven subroutine like `cmdNext_Click()`?","It executes a block of code when a specific event, such as a user clicking the 'cmdNext' command button, occurs."
+"What is the function of an input mask wizard in a data validation form, such as in Microsoft Access or Visual Basic?","It sets a specific format for data entry, ensuring that users input information like phone numbers or postal codes correctly."
+"In DevOps, _____ is a tool used for automation, server provisioning, configuration management, and application deployment.",Ansible
+What is the purpose of using a `logigramme` and `algorigramme` in a Visual Basic project?,To visually plan and document the decision flow (logigramme) and procedural steps (algorigramme) of the software before and during development.
+The `MsgBox` function in Visual Basic is used to _____.,"display a message in a dialog box, wait for the user to click a button, and return a value indicating which button the user clicked"
+"In the context of the Scottish Qualifications Authority (SQA), what is the purpose of a modular learning structure in engineering education?","It breaks down complex subjects into smaller, manageable units of learning, each with its own assessment, to build a verifiable career path."
+The concept of an 'audit-ready' career tracking system emphasizes that a professional's skills and credentials must be _____.,"structured, verifiable, and formally logged"
+"What is the main purpose of Distributed-Ledger Technology (DLT), like blockchain, in educational technology?","To provide a secure and decentralized way to manage and verify educational records, credentials, and content."
+"In wireless communications, what is the purpose of multiple access techniques like FDMA, TDMA, and CDMA?",To enable multiple users to share the same frequency band or communication medium simultaneously.
+"What phenomenon describes the behavior of wireless signals as they travel, including effects like path loss, fading, and interference?",Wireless Signal Propagation.
+"In power systems, _____ is the unauthorized and often illegal abstraction of electrical power from a utility.",load shedding
+What is the function of a thyristor in power electronics?,"It is a semiconductor device used as a bistable switch, conducting when its gate receives a current trigger and continuing to conduct until the voltage across it is reversed."
+The mathematical process used to solve a second-order linear differential equation of the form $a \cdot \frac{d^2y}{dx^2} + b \cdot \frac{dy}{dx} + cy = f(x)$ often involves finding a _____.,Laplace transform
+"In digital logic, a Boolean equation written as a sum of products, such as Z = (A'B') + (CD), can be implemented using which combination of logic gates?","A combination of AND gates for the product terms (A'B', CD) followed by an OR gate for the sum."
+What is the purpose of a 'bill of materials' (BOM) in a manufacturing process?,"It is a comprehensive list of the raw materials, components, and assemblies required to manufacture a product."
+"In supply chain management, what does SCADA stand for?",Supervisory Control and Data Acquisition.
+What does a 'per-unit' calculation achieve in power system analysis?,"It normalizes all system quantities (like voltage, current, and impedance) to a common base value, simplifying analysis."
+"The formula $Z_s = Z_o + (R_1 + R_2)$ is used to calculate the _____, a critical safety parameter in electrical circuits.",earth fault loop impedance
+"In software engineering, what is the primary function of a `while...end while` loop?",To repeat an action or block of code as long as a specified condition remains true.
+What is the purpose of a `case...of` statement in programming?,To select one of many blocks of code to be executed based on the value of a single variable or expression.
+"In industrial electronics, a _____ is a device that converts one form of energy into another, often used for measurement and control.",transducer
+What is the key difference between a bistable element like a latch and a combinational logic gate?,"A bistable element has memory and can store a state (0 or 1), while a combinational logic gate's output depends only on its current inputs."
+"In the context of power generation, if the sum of motor power is high, a simultaneous start-up can generate a high pick-up current that may cause a large _____.",voltage drop
+What is the function of a 'PIR-triggered mains switch'?,It uses a Passive Infrared (PIR) sensor to detect movement and then switch on a mains-powered device.
+What is a 'ripple counter' in digital logic circuits?,An asynchronous counter where the output of one flip-flop serves as the clock input for the next flip-flop in the chain.
+"In electronics, a _____ is used to reduce and regulate a higher DC voltage to a lower, stable DC voltage.","linear regulator (e.g., 78L05 for +5V)"
+What is the purpose of a 'didactic panel' in technical education?,It is a hands-on training board that models a real system (like an electrical circuit) to facilitate experimental and practical learning.
+The pedagogical approach that emphasizes self-directed learning and learner autonomy is known as _____.,autopedagogy
+What is the key objective of 'phenomenological inquiry' in a learning context?,To understand and describe a concept or experience from the subjective perspective of the person who lived it (embodied learning).
+"In a Visual Basic career readiness evaluation framework, `psychometricScore`, `lmsXP`, and `tradeTestScore` would be used to calculate a composite _____.",readiness index
+What does the statistical method ANOVA (Analysis of Variance) test for?,It tests for significant differences between the means of two or more independent groups.
+A significant increase in correct answers and a shift in explanatory language from a pre-test to a post-test are indicators of _____.,conceptual change
+Term: EcoStruxure,"Definition: A Schneider Electric IoT-enabled architecture and platform for managing energy and automation in buildings, data centers, and industries."
+The process of verifying that a software update has been successfully applied to a Transmission Electronic Control Unit (TECU) is known as _____.,warranty validation
+What is the purpose of a `Select Case` statement in a VBA module?,"To execute one of several groups of statements, depending on the value of an expression."
+"In GitLab CI/CD, the `.gitlab-ci.yml` file is used to _____.","define the pipeline configuration, including stages, scripts, and rules for continuous integration and deployment"
+What is the primary role of the International Electrotechnical Commission (IEC)?,"To prepare and publish international standards for all electrical, electronic, and related technologies."
+"In a legal context, what is the purpose of submitting an 'affidavit'?","To provide a written statement confirmed by oath or affirmation, for use as evidence in court."
+The South African _____ Act 67 of 2008 establishes the National Qualifications Framework (NQF).,NQF
+"In enterprise procurement, what is an ESD policy?","An Enterprise and Supplier Development policy, aimed at developing and supporting small and medium-sized enterprises within a company's supply chain."
+What is the function of a 'logigram' in the context of a Visual Basic application for tracking legal procedures?,"To model the decision-making flow, such as disciplinary action leading to assessment and then to a resolution."
+"In a transformer, the ratio of the number of turns on the primary coil to the number of turns on the secondary coil determines the _____.",voltage transformation ratio
+What is the purpose of a 'didactic' method in teaching and education?,"It refers to a teaching method that is intended to instruct, particularly in having moral instruction as an ulterior motive."
+"In the context of the South African Police Service (SAPS), what does the acronym TSU stand for?",Technical Surveillance Units.
+What is the primary purpose of a 'binary-coded identity' system?,To represent identification information in a binary format for efficient processing and tracking by computer systems.
+What is the goal of a 'psychotechnical' test in recruitment?,"To measure psychological attributes like reasoning, spatial visualization, and problem-solving abilities relevant to a specific job."
+"In energy systems, _____ are used to model dynamic fault responses in complex scenarios.",differential equations
+What is the primary function of Cisco's Networking Academy (NetAcad)?,To offer comprehensive training programs that provide real-world skills in IT and networking.
+"In networking, what does Power over Ethernet (PoE) allow?",It allows a single network cable to carry both data and electrical power to connected devices like IP cameras or wireless access points.
+What is the core focus of the ISC² CISSP (Certified Information Systems Security Professional) certification?,It focuses on information security governance and risk management across eight domains of the Common Body of Knowledge (CBK).
+The Salesforce _____ program uses a gamified online learning platform called Trailhead to teach skills related to its CRM products.,Trailblazer
+What is the function of a 'custom skill' in Azure AI Search?,"It allows developers to integrate custom data processing steps into the search indexing pipeline, such as calling an external API to enrich data."
+What is the purpose of Group Policy Objects (GPOs) in a Windows Server Active Directory (AD DS) environment?,"To manage and configure operating system, application, and user settings for computers and users in a domain."
+The general equation for calculating an Intellectual Quotient (IQ) is (Mental Age / _____) x 100.,Chronological Age
+What is the role of an oscillator in an electronic circuit?,"To generate a periodic, oscillating electronic signal, typically a sine wave or a square wave."
+"In renewable energy systems, what does the term 'photovoltaic' refer to?",The conversion of light (photons) into electricity (voltage) using semiconducting materials.
+What is the primary goal of Robotic Process Automation (RPA)?,"To automate repetitive, rule-based business processes by using software robots or 'bots' to mimic human actions."
+"The _____ framework is essential for exploring the multifaceted impact of AI in e-commerce by analyzing theory, context, characteristics, and methodology.",TCCM
+What is the primary purpose of a user similarity computation in a B2B e-commerce recommendation engine?,To identify users with similar behavior profiles in order to recommend products that one user has interacted with to another similar user.
+"In a state-space model, what property ensures that it is possible to infer the internal state of the system from its external outputs?",Observability.
+What is the key feature of an 'omni-channel' e-commerce business model?,It integrates online and offline (physical) features to provide a seamless customer experience across different purchasing environments.
+"In the context of the South African recording industry, outsourcing non-core business activities to a strategic partner is a proposed solution to improve _____.",speed to market and operational efficiency
+What is the function of smart contracts on a blockchain network?,"They are self-executing contracts with the terms of the agreement directly written into code, which automatically execute when preset conditions are met."
+"In urban agriculture, _____ involves growing plants in vertically stacked layers, often in a controlled indoor environment.",vertical farming
+What is the primary objective of Digital Rights Management (DRM) in bibliotechnology?,"To control the use, modification, and distribution of copyrighted digital content."
+What defines a Cyber-Physical System (CPS)?,"It is a system that integrates computation, networking, and physical processes, where embedded computers and networks monitor and control physical components."
+What is the fundamental principle of 'immutable data storage' in web design?,"Once data is written, it cannot be changed or deleted, which enhances data integrity and simplifies state management."
+"In electrochemical engineering, what process is used for preventing the corrosion of a metal surface by making it the cathode of an electrochemical cell?",Cathodic protection.
+In what way do 'fusion of behavioral data' and 'fusion of item attribute information' work together in a recommendation system?,"User behavioral data (orders, browsing) is combined with item attributes (category, supplier) to compute similarity scores for generating personalized recommendations."
+What does the term 'mechatronics' represent in engineering?,"A multidisciplinary field that combines mechanics, electronics, computer science, and control engineering to design and create automated systems."
+What is the main purpose of an 'Advanced Diploma in Principles of Industrial Engineering'?,"To provide in-depth knowledge of optimizing complex processes, systems, or organizations by eliminating wastefulness of resources."
+What is the purpose of 'per-phase analysis' in a three-phase power system?,It simplifies the analysis of a balanced three-phase system by representing it as an equivalent single-phase circuit.
+"In telecommunications, what distinguishes a linear system from a non-linear system?","A linear system obeys the principles of superposition and homogeneity, meaning the output is directly proportional to the input."
+"In modern C++, _____ are preferred over C-style macros for defining compile-time constants because they are type-safe and easier to debug.",constexpr variables
+What is the primary function of a Dynamic Link Library (DLL) in the Windows operating system?,"To act as a shared library of code and resources that can be used by multiple applications simultaneously, reducing application size and simplifying updates."
+"In Azure, what is the role of an 'Azure Pipeline'?","To automate the build, test, and deployment of code, enabling continuous integration and continuous delivery (CI/CD)."
+"According to Schneider Electric's guidelines, what is an 'Electrical Digital Twin' used for in a semiconductor fab?","To model, simulate, and analyze the electrical distribution system, helping to improve resiliency, increase efficiency, and reduce time to market."
+What does the SIL rating (Safety Integrity Level) on a component like an MTL analogue input module indicate?,"It specifies the level of risk reduction provided by a safety function, with higher SIL levels corresponding to a lower probability of failure on demand."
+"In a variable speed starter, what is the function of the 'Digital Reference Reset Mode' (P-24)?",It determines the reference speed value the drive will ramp to upon starting or when changing over from another speed source.
+What is the purpose of a 'Probabilistic Risk Assessment' (PRA) in a data center context?,To systematically evaluate the likelihood and consequences of potential failures in a complex system to identify and mitigate risks.
+What is the function of a 'heat sink' in an electronic system?,"To dissipate heat generated by an electronic component into a surrounding medium, such as air, to prevent the component from overheating."

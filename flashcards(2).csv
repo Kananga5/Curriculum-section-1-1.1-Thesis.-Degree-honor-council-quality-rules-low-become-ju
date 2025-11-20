@@ -1,0 +1,75 @@
+"According to the Levies Collective Agreement mentioned, what is the statutory obligation of an employer regarding levy contributions?","To remit all levy contributions, including both the employer's and employees' portions, to the Council’s registered bank account."
+"Under the Levies Collective Agreement, Gazette No. 42975, when are levy payments due?",The payments are due on the 10th day of the month.
+"What legal act, in addition to the Levies Collective Agreement, governs the calculation of interest on overdue levy payments?",The Prescribed Rate of Interest Act 55 of 1975.
+What is the primary function of an ICT Security Manager as described in the City Power vacancy bulletin?,"To create and develop security measures to safeguard information against accidental or unauthorized modification, destruction, or disclosure."
+"In the context of the City Power FAQs, under what condition can a consumer's electricity supply be disconnected regarding meter readings?",The supply can be disconnected if two consecutive meter readings are missed.
+"What organization provides a list of accredited skills development providers and assessment centers in South Africa, as mentioned in an email from Central Office?",The Quality Council for Trades and Occupations (QCTO).
+"In the context of electrical formulas provided, what is the relationship expressed by the equation for series resistance, $R_t$?",The total resistance is the sum of the individual resistances: $R_t = R_1+R_2+...+R_n$.
+"According to the provided electrical engineering notes, what is the term for the process where the temperature is kept constant as pressure increases during compression?",An isothermal process.
+What is the formula for calculating the efficiency of a DC machine?,Efficiency is calculated as (Output Power / Input Power) x 100.
+"In electrical engineering, the formula for calculating total power ($P_f$) in a three-phase system is $P_f = \sqrt{3} \times I_L \times$ _____.",$\cos\phi$
+What is the purpose of laminating the iron parts of DC machines?,To reduce eddy current losses.
+"According to Faraday's law of electromagnetic induction, an electromotive force (e) is induced when there is a change in what quantity over time?","The magnetic flux, expressed as $e = N(d\Phi/dt)$."
+"In AC circuit analysis, what is the formula for calculating the impedance (Z) of a series RLC circuit?",$Z = \sqrt{R^2 + (X_L - X_C)^2}$
+"What does the term 'fugacity' represent in thermodynamics, particularly for a gas at very high pressure?","It is a measure of the effective pressure of a real gas, used to correct for non-ideal behavior in thermodynamic calculations."
+What is the purpose of a relay in an electrical protection system?,A relay is a device that detects a fault in the system and then provides information to the circuit breaker to trip the circuit.
+The Leonard method is used for speed control of which type of electric motor?,A DC motor.
+What is defined as the work done per unit charge to maintain a potential difference in a circuit?,Electromotive force (EMF).
+What does Kirchhoff's junction rule state about the currents entering and leaving a junction?,The algebraic sum of currents entering a junction is equal to the algebraic sum of currents leaving it ($\sum I_{in} = \sum I_{out}$).
+"In the context of South African labour law, what body is responsible for conciliating and arbitrating unfair dismissal disputes?","The Commission for Conciliation, Mediation and Arbitration (CCMA)."
+What is the primary purpose of a Programmable Logic Controller (PLC) in industrial automation?,A PLC is a specialized computer used to control and automate industrial processes and machinery.
+"In software development, what is the function of a version control system like GitLab?","It manages and tracks changes to source code over time, allowing for collaboration and historical revision."
+What is the primary objective of a College Stationery Management System as described in the project proposal?,"To provide an automated software application for managing stationery products, purchase orders, requisitions, and bills for a college."
+The term for a legal ruling that sets aside or cancels a previous award or judgment in the CCMA or Labour Court is a _____ ruling.,rescission
+What is the Le Blanc theorem related to in AC machine engineering?,It explains how a pulsating magnetic field can be resolved into two counter-rotating magnetic fields.
+The _____ theorem in AC machine engineering states that three-phase currents in windings spaced 120 degrees apart create a single rotating magnetic field.,Ferraris
+What is the formula for calculating synchronous speed ($N_s$) of an AC machine?,"$N_s = \frac{120f}{p}$, where f is the supply frequency and p is the number of poles."
+"In database management, what does the acronym SQL stand for?",Structured Query Language.
+"In the hexadecimal number system (base 16), what decimal value does the character 'A' represent?",10
+"In computer architecture, what is the role of the Central Processing Unit (CPU)?",The CPU is the primary component that executes instructions and performs calculations for the computer system.
+"In South Africa, what is the function of the Private Security Industry Regulatory Authority (PSIRA)?",PSIRA is the statutory body that regulates the private security industry and sets standards for security service providers.
+What is the purpose of a feasibility study in system development?,"To determine if a proposed system is technically, economically, operationally, and legally viable before development begins."
+"According to the UNESCO-UNEVOC report, what is another name for TVET in South Africa?",Further Education and Training (FET).
+"In control systems, what is the primary advantage of a closed-loop (feedback) system over an open-loop system?","A closed-loop system uses feedback to automatically correct errors and maintain the desired output, making it more accurate and stable."
+What does the term 'root mean square' (RMS) value represent for an AC voltage?,It represents the effective DC equivalent voltage that would produce the same amount of heat in a resistive load.
+What is the function of a capacitor in a DC circuit?,A capacitor stores electrical energy in an electric field.
+What is the time constant ($	au$) of a simple RC circuit?,"The time constant is the product of the resistance and capacitance, expressed as $\tau = RC$."
+"In the context of the South African education system, what does SAQA stand for?",South African Qualifications Authority.
+What is the primary function of a transformer in an electrical power system?,To change AC voltage levels from one value to another through electromagnetic induction.
+The law stating that the electromotive force induced in any closed circuit is equal to the negative of the time rate of change of the magnetic flux through the circuit is _____ law.,Faraday's
+What is the definition of 'power factor' in an AC electrical circuit?,It is the ratio of the real power (in watts) used to do work to the apparent power (in volt-amperes) supplied to the circuit.
+What type of project management tool is a GitLab pipeline used for?,"It is used for Continuous Integration/Continuous Deployment (CI/CD) to automate the building, testing, and deployment of software."
+What is the main purpose of the National Skills Development Strategy (NSDS) in South Africa?,To develop and assess the country's skill needs and guide the actions of stakeholders to address them.
+"In thermodynamics, what distinguishes an adiabatic process from an isothermal process?","In an adiabatic process, there is no heat transfer into or out of the system, whereas in an isothermal process, the temperature remains constant."
+What is the purpose of a wattmeter in an electrical circuit?,A wattmeter measures the real electrical power being consumed or produced by a circuit.
+"In physics, what is the principle of conservation of energy?","Energy cannot be created or destroyed, but only converted from one form to another."
+What is the purpose of a business continuity and disaster recovery plan for an enterprise?,To ensure that essential business functions can continue during and after a disaster or major disruption.
+What is the role of a moderator in the context of education and assessment?,"A moderator ensures that assessment processes are fair, valid, and reliable, and that standards are applied consistently."
+"In the ST PEACE ACADEMIC STUDENTS BRIGADE document, what is the defined role of 'Integrity Guarding'?","To maintain security and discipline within the academic environment, including curriculum keeping, access control, and enforcing safety policies."
+What is the 'coefficient of performance' (COP) for a thermoelectric system?,"It is the ratio of the heat pumped ($Q_C$) to the electrical energy consumed (Pel), expressed as $COP = Q_C / Pel$."
+What is the purpose of using a heat sink in an electronic or thermoelectric system?,"A heat sink dissipates heat from a component to a surrounding medium, such as air, to prevent overheating."
+What is the primary difference between a DC current and an AC current?,"DC (Direct Current) flows in one direction, while AC (Alternating Current) periodically reverses direction."
+"In project management, what is a 'critical path analysis' used for?","It is a technique used to identify the sequence of tasks that determines the minimum project duration, highlighting critical activities that must be completed on time."
+"According to the SANS 10142 standard, what is the maximum permissible voltage drop in a low-voltage installation from the point of supply to any point of consumption?",The voltage drop must not exceed 5% of the standard or declared voltage.
+What is the purpose of an earth continuity conductor in an electrical installation?,"It provides a path for fault current to flow to the earth, which causes a protective device like a circuit breaker to trip, preventing electric shock."
+"In the context of software development and testing, what is 'Smart UI' as mentioned in the LambdaTest configuration?",It is a feature for visual regression testing that automatically detects visual changes or bugs in a user interface between different builds.
+What does the term 'Portfolio of Evidence' (PoE) refer to in education and assessment?,A collection of a learner's work and other evidence compiled over time to demonstrate their competence against a set of standards or learning outcomes.
+What is the main function of the National Treasury's Central Supplier Database (CSD) in South Africa?,"It serves as a single source of key supplier information for all spheres of government, simplifying the process of doing business with the state."
+"In the COBOL programming language, what is the purpose of the 'IDENTIFICATION DIVISION'?","It is the first division in a COBOL program that provides metadata, such as the program's name, author, and date written."
+What is 'plagiarism' in an academic context?,"Presenting someone else's work or ideas as one's own, without giving proper credit to the original source."
+"According to the City Power vacancy, what does NQF Level 6 correspond to?",A National Diploma.
+"In the context of the Metropolitan Police job applications, what does 'SSCL' stand for?","Shared Services Connected Ltd, a company that delivers services in partnership with the Metropolitan Police Service."
+The formula for the force of gravity between two masses is $F = G \frac{m_a m_b}{r^2}$. What is this formula called?,Newton's Law of Universal Gravitation.
+"According to the materials, what is the DHET certification backlog defined as?",All eligible candidates who met certification requirements but were not issued certificates within three months from the results' approval by Umalusi.
+"In the provided notes, what is the primary function of a 'diode' in an electronic circuit?",A diode is a semiconductor device that primarily allows electric current to flow in only one direction.
+What is the purpose of the 'merit system' described in the PEPPS College Information Booklet?,"To reward students with points for positive contributions in academic, cultural, and sporting activities."
+What is a 'CI/CD pipeline' in the context of GitLab and software development?,"A series of automated steps to deliver a new version of software, typically involving building, testing, and deploying code changes."
+What does the term 'driven machinery regulations' refer to in the context of South African labor and safety law?,Regulations under the Occupational Health and Safety Act that govern the safe use and operation of machinery in the workplace.
+"In electrical engineering, what is 'voltage regulation' of a transformer or distribution line?",It is the measure of the change in the secondary terminal voltage from no-load to full-load at a specific power factor.
+What is the purpose of a 'substation' in an electrical power grid?,"A substation is a facility that steps voltage up or down for transmission and distribution, and also serves as a point for circuit switching and protection."
+What is 'geotechnical engineering'?,"A branch of civil engineering concerned with the engineering behavior of earth materials, such as soil and rock."
+"In project documentation, what is an 'E-R Diagram'?","An Entity-Relationship Diagram, which is a flowchart that illustrates how entities like people, objects, or concepts relate to each other within a system."
+"In the French-language notes, what is 'recherche opérationnelle'?","Operational Research, a discipline that uses advanced analytical methods to help make better decisions."
+"According to the legal documents, what is a 'notice of motion'?",A formal legal document that notifies the court and the opposing party of an application or request that is being made.
+"What is the role of an 'assessor' in the South African education and training system (e.g., SETA, QCTO)?",A registered professional who evaluates a learner's evidence of competence against prescribed standards or qualifications.
+"The term for a detailed list of school supplies required for a specific grade, such as pencils, notebooks, and glue sticks, is a _____ list.",stationery

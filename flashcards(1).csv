@@ -1,0 +1,74 @@
+"In the context of the PowerXL™ DE1 Variable Speed Starter, what is the purpose of the 'V-Boost' (P-11) parameter?","It boosts the voltage in the lower frequency range to compensate for the internal voltage drop of the motor, improving torque."
+"An electrical explosion that releases temperatures over 36,000°F, four times hotter than the sun, is known as a(n) _____.",arc flash
+What is the function of the 'Normally open' relay contacts (terminals 11 & 12) in the MTL5314 Trip Amplifier in a Safety Instrumented Function (SIF)?,To ensure the SIF fails to a safe condition if wiring is broken or power is lost to the module.
+"According to SANS 10142, the voltage drop between the point of supply and any point of consumption in a low voltage installation should not exceed what percentage of the standard voltage?",5%
+Term: Logigramme,"Definition: A visual representation, similar to a flowchart, that illustrates the sequential logic and flow of a process or system."
+"In South African labour law, what body is responsible for conciliation, mediation, and arbitration of labour disputes?","The Commission for Conciliation, Mediation and Arbitration (CCMA)."
+What is the function of the MTLx54xA/MTLx54xAS modules in a hazardous area application?,They receive an active 4-20mA signal from a transmitter in the hazardous area and repeat the current to a safe-area load.
+"According to IEC 61508, the measure of a system's ability to perform its required safety function is known as its _____.",Safety Integrity Level (SIL)
+"In the context of e-commerce recommendation systems, what does the user similarity metric, denoted as $S(u, v)$, provide?",It provides a measure of how alike two users (u and v) are in terms of their interactions and preferences.
+What is the primary function of a circuit breaker in an electrical system?,It is an automatic switch designed to protect an electrical circuit from damage caused by overcurrent or short circuit.
+"In the Eaton DG1 VFD, setting parameter P-09 to 87 Hz and connecting a 230/400V motor in a delta configuration is known as using the _____ characteristic.",87 Hz
+The PowerXL™ DE1 Variable Speed Starter can use DC braking to stop a rotating motor. This process converts the rotating energy of the machine into _____.,heat
+What is the function of the QCTO (Quality Council for Trades and Occupations) in South Africa's education system?,"It oversees the design, implementation, assessment, and certification of occupational qualifications, including trades."
+"The MTLx54x modules, with a systematic safety integrity measure of SC 2, can be used in safety functions up to _____ in a simplex architecture.",SIL 2
+What does the term 'prosumers' refer to in the context of the new energy ecosystem?,"Consumers and businesses who produce their own energy locally, use what they need, and may export the excess back to the grid."
+Term: Algorigramme,"Definition: A representation of an algorithm or decision-making process, often using structured text or diagrams to outline computational steps and conditional logic."
+"In legal proceedings, what is the name for a sworn written statement confirmed by oath or affirmation, used as evidence in court?",Affidavit
+The framework that describes qualifications and learner achievements in South Africa is known as the _____.,National Qualifications Framework (NQF)
+What is the purpose of slip compensation in a variable speed drive application?,"It adjusts the output frequency to counteract the motor's natural speed drop (slip) under load, maintaining a more constant speed."
+"In supply chain management, what technology uses a distributed ledger to enhance transparency and traceability of goods?",Blockchain
+What is the 'drooping' function used for in a multi-motor system controlled by variable frequency drives?,It corrects the speed reference based on the motor's load to ensure equal load sharing between mechanically connected drives.
+A one-line diagram in electrical engineering is used to represent what?,The flow of electricity and major components of a complex power system in a simplified single line format.
+The process of developing and deploying a new Integrated Exams IT System (IEITS) in South Africa involves a partnership between DHET and which state-owned IT company?,State Information Technology Agency (SITA).
+What is the purpose of Line-Fault Detection (LFD) in switch/proximity detector interfaces like the MTL5517?,It monitors the integrity of the field wiring to detect open-circuit or short-circuit conditions.
+"In Visual Basic, what is a UserForm used for?",It is a customizable window or dialog box that serves as a graphical user interface for data entry and interaction with a program.
+"For the Eaton MTLx54x modules, the hardware assessment shows reliability data based on which standard?",IEC TR 62380:2004 Reliability Data Handbook.
+What is the primary objective of Robotic Process Automation (RPA) in engineering?,"To use software robots or 'bots' to automate repetitive, rules-based tasks and streamline business processes."
+"In a three-phase electrical system, what is the relationship between line voltage ($V_L$) and phase voltage ($V_P$) in a star (Y) connection?",$V_L = \sqrt{3} \times V_P$
+A legal ruling that sets aside or cancels a previous judgment or order is known as a _____ ruling.,rescission
+The process of a motor running slower than its synchronous speed under load is called _____.,slip
+What is the role of Umalusi in the South African education system?,"It is the Quality Council for General and Further Education and Training, responsible for quality assurance and certification of qualifications."
+What is the key feature of open access (OA) publishing in scientific research?,"It makes research literature freely available online to readers without subscription fees, democratizing knowledge."
+"In the equation for a synchronous motor, $V = E_b + I_a(R_a + jX_s)$, what does the term $E_b$ represent?",The back EMF (electromotive force) generated by the motor.
+What is the primary function of a Programmable Logic Controller (PLC) in an industrial setting?,It is a ruggedized digital computer used for automating industrial processes such as machinery on factory assembly lines.
+What type of analysis in e-commerce uses large datasets to predict customer preferences and support decision-making?,Big data analytics
+What is the function of a SCADA (Supervisory Control and Data Acquisition) system?,"It is a control system architecture comprising computers, networked data communications, and graphical user interfaces for high-level process supervisory management."
+"The specific NATED vocational qualifications in South Africa, such as N1 through N6 in engineering, fall under the purview of which government department?",Department of Higher Education and Training (DHET).
+"In power systems, what does the term 'field weakening' refer to?",A technique used to operate an electric motor above its rated speed by reducing the magnetic field.
+What is the purpose of the National Skills Fund (NSF) in South Africa?,To fund skills development projects of national priority as identified in the National Skills Development Strategy.
+"According to the Eaton manuals, what does 'EMC' stand for?",Electromagnetic Compatibility.
+"The process of creating a formal, written request to a court or other official body for some action is known as filing a _____.",motion
+What is the purpose of a Learning Management System (LMS)?,"It is a software application for the administration, documentation, tracking, reporting, and delivery of educational courses or training programs."
+"In transformer calculations, the formula $N = \frac{N_2}{N_1}$ represents the _____.",turns ratio
+What is the role of a moderator in the context of SETA (Sector Education and Training Authority) assessments?,"To ensure that assessments are fair, valid, and reliable, and that assessor judgments are consistent."
+The synchronous speed of an AC motor is calculated using the formula $N_s = \frac{120f}{p}$. What does 'p' represent?,The number of poles in the machine.
+What is the purpose of using version control systems like Git and platforms like GitHub in software development?,To track changes in computer files and coordinate work on those files among multiple people.
+"In circuit analysis, Kirchhoff's current law (KCL) states that the algebraic sum of currents entering a junction or node is _____.",zero
+The South African Qualifications Authority (SAQA) is responsible for overseeing the development and implementation of the _____.,National Qualifications Framework (NQF)
+What is the function of the 'field weakening point' in a VFD's V/f curve?,"It is the frequency at which the motor reaches its rated voltage; above this frequency, the voltage remains constant while the frequency increases."
+What is the primary function of the National Treasury's Central Supplier Database (CSD) in South Africa?,"To be the single source of key supplier information for all spheres of government, verifying information against institutions like SARS and CIPC."
+"In power electronics, what does 'PWM' stand for?",Pulse Width Modulation.
+What is the main purpose of an uninterruptible power supply (UPS)?,To provide emergency power to a load when the input power source or mains power fails.
+The legal term for a court order requiring a person to do or cease doing a specific action is a(n) _____.,injunction
+"The use of _____ in e-commerce involves algorithms that refine customer segmentation, thereby improving the precision of marketing efforts.",deep learning
+"According to the Public Finance Management Act (PFMA) in South Africa, what is the standard timeframe for paying valid invoices to suppliers?",Within 30 days.
+What does a 'clean audit' opinion from the Auditor-General of South Africa (AGSA) signify?,It signifies that the financial statements are free from material misstatements and there are no material findings on reporting or compliance.
+"In object-oriented programming, a blueprint for creating objects that provides initial values for state and implementations of behavior is called a _____.",class
+What is the primary function of a Human-Machine Interface (HMI) in an industrial setting?,It provides a graphical interface for a human operator to monitor and control machinery and processes.
+The practice of using Internet of Things (IoT) devices in logistics enables real-time _____ and smart decision-making in supply chains.,data collection
+What is the role of an 'assessor' in the South African vocational training system?,To conduct assessments and judge whether a learner is competent against the standards and outcomes of a specific qualification.
+What is the purpose of 'orthographic projection' in engineering drawing?,To represent a three-dimensional object in two dimensions by projecting its views onto different planes.
+"In the context of the National Qualifications Framework (NQF), what does 'articulation' refer to?","It refers to the pathways that allow learners to move between different qualifications and institutions, both vertically and horizontally."
+What is the function of the Private Security Industry Regulatory Authority (PSIRA) in South Africa?,To regulate the private security industry and to exercise effective control over the practice of the occupation of security service providers.
+Term: Didactic,"Definition: Intended to teach, particularly in having moral instruction as an ulterior motive; in an academic context, it refers to the science of teaching."
+The calculation $P = \sqrt{3} \times V_L \times I_L \times \cos{\theta}$ is used to find the true power in what type of electrical system?,A balanced three-phase system.
+What is the primary goal of the Economic Reconstruction and Recovery Plan (ERRP) in South Africa?,"To rebuild the economy after the impact of the COVID-19 pandemic, focusing on infrastructure, job creation, and industrial growth."
+"In a Visual Basic program, what is the purpose of a '.bas' file?",It is a standard module file that contains code (functions and subroutines) which can be accessed from any other part of the project.
+What is the key difference between a motor and a generator?,"A motor converts electrical energy into mechanical energy, while a generator converts mechanical energy into electrical energy."
+What does 'persal' refer to in the context of South African government administration?,It is the integrated payroll and personnel system used for managing public service employees.
+The process of a company contracting a business function to a third-party provider is known as _____.,outsourcing
+What is the purpose of the 'Organising Framework for Occupations' (OFO) in South Africa?,"It is a skills-based, coded classification system that categorizes all occupations in the South African labor market."
+"In an electrical installation, what is the function of a residual-current device (RCD)?",It is a safety device that quickly breaks an electrical circuit to prevent serious harm from an ongoing electric shock.
+"The term _____ refers to the legal, administrative, or technical practices and standards that govern an industry or process.",regulatory framework
+What is the primary purpose of a heatsink in an electronic device?,"To dissipate heat generated by the electronic component into a surrounding fluid medium, such as air, to prevent overheating."

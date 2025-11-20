@@ -1,0 +1,104 @@
+"In AC circuit analysis, what term is used to describe quantities like voltage and current that vary over time as a sine wave?",Sinusoidal quantities.
+"What three characteristics are essential for describing an alternating current (AC) wave, unlike a direct current (DC)?","Magnitude, frequency, and phase."
+"In the context of the smart industrial revolution (Industry 4.0), what is the term for systems where physical machinery is connected and communicates via the Internet of Things (IoT)?",Cyber-physical systems.
+What is the name for the practice of creating a virtual model of an entire factory to test processes before any physical construction begins?,Digital twin.
+"What class of fire extinguisher, such as CO2 or dry powder, must be used on an electrical fire (Class E)?","A Class E fire requires a CO2 or dry powder extinguisher, as using water is extremely dangerous."
+"For high-precision metalwork, a _____ file is used for a perfect fit, whereas a bastard file is used for rapid material removal.",dead smooth
+What is the primary advantage of Alternating Current (AC) over Direct Current (DC) that led to its adoption for power grids?,"AC voltage can be easily stepped up or down with transformers, making it highly efficient for long-distance power transmission."
+"In a _____ circuit, the current remains the same through every component.",series
+"In a parallel circuit, the _____ remains the same across each branch.",voltage
+"In modern industrial networking, what is the purpose of a DMZ (demilitarized zone)?","A DMZ is a security measure used to keep different networks, such as the corporate and control networks, separate from each other."
+What networking tool is as crucial for a modern technician's cybersecurity toolkit as a fire extinguisher is for physical safety?,A firewall.
+"What type of artificial intelligence systems, modeled on the human brain, are used to balance power across the grid in real-time?",Neural networks.
+"In the South African education system, what are some of the documented 'institutional irregularities' that create systemic bottlenecks for learners?","Issues include bogus registrations, fake qualifications, backlogs of certificates, and poor auditing."
+"According to the source material, the backlog for DHET certificates in South Africa dates as far back as what year?",1992.
+"What is the term for the process of restoring a power station to operation without relying on the external transmission network, typically after a widespread outage?",Black start.
+What is the primary function of a step-up substation in an electrical grid?,To use transformers to raise the voltage from generators so that power can be transmitted efficiently over long distances.
+"A _____ is a regional or continent-wide transmission network designed to trade high volumes of electricity across great distances, often using HVDC technology.",super grid
+High-voltage direct current (HVDC) is used for long-distance transmission because it minimizes what type of energy loss?,Resistive power loss.
+"What phenomenon occurs when the power supplied by the grid drops below the demand, leading to a partial loss of power?",A brownout.
+"In grid management, what is the term for requesting or incentivizing customers to reduce their electricity load, especially during peak times?",Demand response.
+"According to the source material, what South African power utility is headquartered in Sunninghill, Sandton?",Eskom.
+What is the term for a wide area electrical grid where all components operate at a synchronized frequency and are electrically tied together?,"A wide area synchronous grid, also known as an interconnection."
+What is the primary purpose of a 'merit order' in the context of power generation for an electrical grid?,"To dispatch generators based on their marginal cost, using the cheapest power sources first to meet demand."
+The process of replacing existing transmission lines with higher-capacity lines is known as _____.,reconductoring
+What is the largest form of grid energy storage globally as of 2023?,Pumped-storage hydroelectricity (PSH).
+"In power generation, what is cogeneration (or CHP)?","Cogeneration, or Combined Heat and Power (CHP), is the simultaneous production of electricity and useful heat from a single fuel source."
+What component in a CHP plant uses hot exhaust gases from a turbine to heat water and generate steam for a steam turbine or industrial processes?,A heat recovery steam generator (HRSG).
+What is the primary cause of an 'arc flash' event in electrical systems?,"An electrical fault, such as a short circuit, causes an arc that releases a massive amount of explosive energy."
+"What type of meter allows for two-way communication, enabling remote reading and dynamic pricing?",A smart meter.
+What is the primary function of Automatic Generation Control (AGC) in an electric power system?,To adjust the power output of multiple generators in response to changes in load to maintain a stable system frequency.
+"If the frequency of a power grid is decreasing, what does this indicate about the relationship between generation and load?","It indicates that the load on the system is greater than the power being generated, causing the generators to slow down."
+"In South Africa, what organization is responsible for the National Qualifications Framework (NQF) and the evaluation of foreign qualifications?",The South African Qualifications Authority (SAQA).
+The NATED (National Accredited Technical Education Diploma) courses in South Africa are designed to give learners what kind of knowledge and skills?,"Technical, theoretical, practical, and workplace knowledge and skills in their chosen occupational area."
+What is the general term for protective equipment like helmets and safety shoes that an electrician must wear?,Personal Protective Equipment (PPE).
+What is the purpose of applying Prussian blue to a finely finished metal surface before marking it?,To create a high-contrast background that allows for incredibly sharp and accurate scribe lines.
+"What is the term for a network of devices within a home, such as in-premises displays and hubs, that communicates with a smart meter?",A Home Area Network (HAN).
+"According to the SAQA annual report, all qualifications on the NQF post-2014 must have at least one ____ pathway.",articulation
+"In the context of the South African Department of Higher Education and Training (DHET), what does the acronym TVET stand for?",Technical and Vocational Education and Training.
+"What is the term for the explosive energy release, with temperatures hotter than the sun, that can occur from an electrical fault?",An arc flash.
+"In a series voltage regulator circuit, what component is used to establish a stable reference voltage?",A Zener diode.
+"To control the speed of a DC motor using a DC drive, one typically adjusts the _____ voltage while keeping the field voltage constant.",armature
+What is the primary purpose of a star-delta starter for a three-phase induction motor?,To reduce the high starting current by first connecting the motor windings in a star configuration and then switching to a delta configuration.
+"In an Uninterruptible Power Supply (UPS) system, what is the function of the inverter?",The inverter converts the DC power from the battery into AC power to supply the load during a mains failure.
+What is the main function of a charge controller in a solar power system with battery storage?,To regulate the voltage and current coming from the solar panels to prevent overcharging the batteries.
+"In a hydroelectric power plant, what is the function of the penstocks?",Penstocks are large pipes or tunnels that carry water under pressure from the reservoir to the turbines.
+"In a thermal power plant, what component uses waste heat from flue gases to preheat the air used for combustion, improving boiler efficiency?",The air pre-heater.
+What does the Time Multiplier Setting (TMS) on an overcurrent relay control?,The TMS adjusts the operating time of the relay; a lower TMS results in a faster trip for a given fault current.
+What is the 'pickup current' of a protective relay?,It is the minimum current at which the relay begins to operate.
+"In a wind power system, what is the purpose of the gearbox?",The gearbox increases the rotational speed from the slow-turning turbine blades to a speed suitable for the generator.
+What is the purpose of periodically transposing the conductors of a three-phase transmission line?,"To balance the inductance and capacitance among the phases, ensuring that each conductor carries a proportional amount of power."
+What South African utility is responsible for the electricity distribution network in Johannesburg for customers not serviced by Eskom?,City Power Johannesburg.
+"In South African vocational education, what is the 'Portfolio of Evidence' (PoE)?","A collection of a learner's work and assessments that accounts for a portion of their final mark, alongside external examinations."
+What does the term 'firm capacity' refer to in the context of an electrical grid?,The maximum power output that is immediately available over a given time period.
+"In the OPA model of cascading failures, what is the term for the amount of demand that is disconnected from the grid?",Load shed.
+"What is the name of Eaton's learning platform that offers webinars, tutorials, and self-paced online courses?",Eaton University.
+"For functional safety applications, Eaton's MTL5314 Trip Amplifier is designed to achieve a Safety Integrity Level of up to _____ in a simplex architecture.",SIL 2
+"In South Africa, what government department is responsible for TVET colleges and university education?",The Department of Higher Education and Training (DHET).
+What is the purpose of the 'merit order' system in power grid operations?,"To dispatch electricity from generators based on their marginal cost, using the cheapest sources first to meet demand."
+What is the primary function of a transformer in an electrical circuit?,"To transfer electrical energy from one circuit to another, changing the voltage and current levels through electromagnetic induction."
+The formula $P = V \times I$ is used to calculate what electrical quantity?,"Electrical power (in watts), where P is power, V is voltage, and I is current."
+"In a transistor circuit acting as a switch, the point at which an increase in base current ($I_b$) no longer causes an increase in collector current ($I_c$) is called _____.",saturation
+What is the process called when an electrical utility allows independent power producers to use the existing grid infrastructure to supply electricity to customers?,Wheeling.
+What does the acronym NCV stand for in the context of South African vocational education?,National Certificate (Vocational).
+"In the mathematical description of AC circuits, the term $\omega t + \phi$ represents what part of the sinusoidal wave?",The phase angle of the wave.
+Which regulatory body in South Africa is responsible for registering private security service providers?,Private Security Industry Regulatory Authority (PSIRA).
+The ability of an electrical system to continue operating during a fault or disturbance is known as _____.,resilience or stability
+What is the general name for the national database of learner achievements maintained by SAQA in South Africa?,The National Learners' Records Database (NLRD).
+A _____ is a device that converts mechanical energy into electrical energy.,generator
+What type of electrical circuit protection device is designed to interrupt a circuit when it detects that the current is not balanced between the two conductors?,A Residual Current Circuit Breaker (RCCB) or Residual Current Device (RCD).
+The concept of 'autopedagogie' refers to what type of learning?,Self-directed or self-taught learning.
+"In a power system, _____ refers to the power that oscillates between the source and the load, which is necessary for creating magnetic fields but does no useful work.",reactive power
+What is the purpose of the Visual Basic (VB.NET) logigram/algorigram mentioned in the source material?,"To model and simulate administrative flows for accountability, such as education assessment, moderation, and certificate issuance."
+The phenomenon where excessive voltage on a high-voltage transmission line causes the air around it to ionize is called _____.,corona discharge
+What is the main purpose of an uninterruptible power supply (UPS)?,"To provide emergency power to a load when the input power source fails, typically using a battery and an inverter."
+"In South Africa, what does the acronym SETA stand for?",Sector Education and Training Authority.
+What is the purpose of using logic gates like AND and OR in digital electronics?,To perform logical operations on one or more binary inputs to produce a single binary output.
+The process of transferring a circuit layout onto a copper-clad board and removing excess copper to create conductive pathways is called _____.,etching
+"In the context of the Met Police, what is the Character Enquiry Centre (CEC) responsible for?",Conducting background and character checks on applicants and personnel.
+What is the purpose of a psychometric battery in an educational or professional context?,"To measure an individual's mental capabilities and behavioral style, including aptitude, resilience, and stress effects."
+Formula: $S = V \times I$. What does 'S' represent in this AC power formula?,"Apparent Power, measured in Volt-Amperes (VA)."
+"According to the source documents, the South African education system faces challenges with 'bogus registrations' and 'exam irregularities,' which necessitate special procedures like _____.",withholding results
+What is the purpose of the Nyquist–Shannon sampling theorem?,It establishes a sufficient condition for a sample rate that permits a discrete sequence of samples to capture all the information from a continuous-time signal of finite bandwidth.
+"A virtual LAN or _____ is used to segment a physical network into multiple, isolated logical networks for security and management purposes.",VLAN
+What is the role of a tachometer in motor testing procedures?,A tachometer is used to measure the rotational speed of the motor in revolutions per minute (RPM).
+"In power generation, what is 'trigeneration'?","It is the simultaneous production of electricity, useful heating, and cooling from a single heat source."
+"What type of battery, where energy is stored in external liquid tanks, offers scalability for long-duration grid storage?",A redox flow battery.
+The efficiency of a solar inverter is calculated by the ratio of _____ power to _____ power.,output (AC); input (DC)
+What is the term for the process of determining the total electrical load requirements to appropriately size circuit breakers and cables?,Load sizing.
+The formula $Q = I^2 R t$ is used to calculate what?,The heat energy (Q) dissipated in a resistive component.
+"In the context of Salesforce, what is the 'Trailblazer' program?","It is a learning program, centered around the Trailhead platform, that provides gamified training on Salesforce products and skills."
+"According to the source material, the Met Police UK has been adopting advanced technologies like _____ models to anticipate criminal activity.",predictive policing
+The _____ is a South African science center that collaborates with DHET to provide learners with workshops and practical skills development in STEM fields.,Sci-Bono Discovery Centre
+What is the purpose of a 'combiner box' in a large-scale solar PV array?,"To combine the output of multiple strings of solar panels in parallel, typically including fuses or circuit breakers for protection."
+The formula for the volume of a cone is $V = \frac{1}{3} \pi r^2 h$. What does this formula represent in its integral form?,"It is derived from the integral $V = \int_0^h \pi (\frac{r}{h}z)^2 \, dz$, which calculates the volume by summing infinitesimally thin circular disks."
+What is the primary function of a megger or insulation resistance tester?,"To measure the electrical resistance of insulators, helping to identify faulty insulation in wiring and equipment."
+The practice of using data visualization tools like _____ allows for the creation of interactive dashboards for business intelligence.,Tableau
+What is the primary purpose of Continuous Professional Development (CPD) frameworks?,"To ensure that professionals maintain, improve, and broaden their knowledge and skills to remain competent in their fields."
+The National Certificate Vocational (NCV) program in South Africa is a vocational alternative to what traditional schooling grades?,"Grades 10, 11, and 12."
+What is the role of a supervisory control and data acquisition (SCADA) system in industrial processes?,SCADA systems are used to monitor and control industrial processes locally or at remote locations.
+What does the Safe Failure Fraction (SFF) represent in functional safety analysis?,It is the fraction of the overall failure rate of a device that results in either a safe failure or a detected dangerous failure.
+"In the context of supply chains, what does 'Just-In-Time' (JIT) inventory management aim to achieve?",It aims to minimize inventory holding costs by receiving goods from suppliers only as they are needed in the production process.
+What is the primary objective of using 'smart contracts' on a Distributed Ledger Technology (DLT) platform in an educational context?,"To optimize and automate transactions such as payments, enrollments, and the issuance of certifications."
+The _____ is the unit code for the Added Value Unit in the Engineering Science (National 4) Course in Scotland.,H23E 74
+The formula for reactive power in a three-phase system is $Q = \sqrt{3} \times V_L \times I_L \times \sin(\phi)$. What does $\sin(\phi)$ represent?,"The sine of the phase angle between voltage and current, which is also known as the reactive factor."
