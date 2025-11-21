@@ -1,0 +1,79 @@
+"In Visual Basic, what is the purpose of the `ReDim Preserve` statement?",It re-sizes an array while keeping its existing data intact.
+What is the primary function of an automatic star-delta starter in motor control?,It reduces the initial inrush current during motor startup to protect the motor.
+"In fault analysis of a voltage stabilizer, what reading on an ohmmeter indicates a dead short circuit?",A reading of 0 ? indicates a dead short circuit.
+What is the function of a surge tank in a hydroelectric power plant?,It absorbs pressure fluctuations in the penstock to protect the system.
+"In psychrometrics, the Sensible Heat Ratio (SHR) is calculated by dividing the sensible heat load ($Q_s$) by the _____.",total heat load ($Q_t$)
+What is the formula for calculating the slip (S) in an AC induction motor?,"$S = \frac{n_s - n_r}{n_s}$, where $n_s$ is synchronous speed and $n_r$ is rotor speed."
+What is the formula for calculating the synchronous speed ($n_s$) of an AC machine?,"$n_s = \frac{120f}{P}$, where f is the frequency and P is the number of poles."
+"According to Faraday's Law, the induced electromotive force ($\mathcal{E}$) is equal to the negative rate of change of what quantity?","Magnetic flux ($\Phi$), as shown by the formula $\mathcal{E} = -\frac{d\Phi}{dt}$."
+"In a balanced Wheatstone bridge used for resistance measurement, what is the formula to find the unknown resistance $R_x$?",$R_x = \frac{R_2}{R_1} \cdot R_3$.
+What is the key principle of De Morgan's Theorem for the expression $\overline{A + B}$?,The expression $\overline{A + B}$ is equivalent to $\overline{A} \cdot \overline{B}$.
+"In a half-wave rectifier circuit, what is the formula for the average DC voltage ($V_{DC}$) output?",$V_{DC} = \frac{V_{peak}}{\pi}$.
+"For a Common Emitter (CE) transistor amplifier, what is the formula for voltage gain ($A_V$)?",$A_V = -\frac{R_C}{R_E}$.
+What is the formula for calculating inductive reactance ($X_L$)?,$X_L = 2\pi f L$.
+What is the formula for calculating capacitive reactance ($X_C$)?,$X_C = \frac{1}{2\pi f C}$.
+"In South African vocational education, what does the acronym SAQA stand for?",South African Qualifications Authority.
+"In the NATED program assessment structure, what is the weighting for Internal Continuous Assessment (ICASS) and the final Examination Marks (EISA)?",ICASS is weighted at 40% and the final Examination Mark is weighted at 60%.
+What is the Power Rule for differentiation for a function $x^n$?,The derivative is $n \cdot x^{n-1}$.
+What is the Power Rule for integration for a function $x^n$ (where $n \ne -1$)?,The integral is $\frac{x^{n+1}}{n+1} + C$.
+What is the general form of the quadratic formula used to solve equations of the form $ax^2 + bx + c = 0$?,$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$.
+"In DC machine theory, what formula describes the relationship for back EMF ($E_b$)?",$E_b = V - I_a R_a$.
+"In a Zener diode voltage regulator circuit, what formula is used to calculate the required series resistor ($R_s$)?",$R_s = \frac{V_{supply} - V_{zener}}{I_{zener}}$.
+What does the term 'kettling' refer to in the context of policing protests?,It is a form of containment where police enclose a group of people in a small area.
+Concept: Tri-fold disposable restraints,"An alternative to zip-tie cuffs in law enforcement, designed to lock in place and reduce the risk of over-tightening and injury."
+What is the primary objective of using 'differentiation' as a strategy when policing protests?,"To distinguish between violent criminal behavior and lower-level acts of civil disobedience, allowing some non-violent illegal behavior to persist to de-escalate the situation."
+What is the purpose of the Technology Acceptance Model (TAM)?,It is used to evaluate and measure the success of an information system based on users' perceived ease of use and usefulness.
+"What is the formula for total energy consumption ($E$) over time, given power $P(t)$?","The total energy is the integral of power over time: $E = \int P(t) \, dt$."
+"What is the formula for resistance ($R$) based on resistivity ($?$), length ($l$), and cross-sectional area ($A$)?",$R = \rho \frac{l}{A}$.
+"In policing protests, policy should include a general prohibition on containing what two groups?",Media and legal observers.
+"In a hydroelectric power plant, what is the function of the penstocks?",They are large pipes that carry water from the reservoir to the turbines.
+"In statistics, what does the coefficient of determination, $R^2$, represent in a linear regression model?",It represents the proportion of the variance in the dependent variable that is predictable from the independent variable(s).
+"In industrial wiring, what is the purpose of interlocking in a forward/reverse motor control circuit?","It prevents the forward and reverse contactors from being energized at the same time, which would cause a short circuit."
+What are the two main types of heat load calculated in HVAC systems?,Sensible heat load ($Q_s$) and latent heat load ($Q_\ell$).
+"In a transformer, what is the relationship between the primary voltage ($V_p$), secondary voltage ($V_s$), and the number of turns in the primary ($N_p$) and secondary ($N_s$) coils?",$\frac{V_s}{V_p} = \frac{N_s}{N_p}$.
+What is the function of a full-wave bridge rectifier?,It converts an entire AC input waveform into a pulsating DC output by inverting the negative half-cycles.
+The Chain Rule is used to differentiate ____- functions.,composite
+"In an RLC series circuit, what is the formula for total impedance (Z)?",$Z = \sqrt{R^2 + (X_L - X_C)^2}$.
+What is the condition for resonance in a series RLC circuit?,The resonant frequency occurs when the inductive reactance ($X_L$) equals the capacitive reactance ($X_C$).
+"In South African education, what does DHET stand for?",Department of Higher Education and Training.
+What is the purpose of a Programmable Logic Controller (PLC) in industrial automation?,"It is a ruggedized digital computer used for automating electromechanical processes, such as control of machinery on factory assembly lines."
+What is the formula for calculating power (P) in a DC circuit?,"$P = V \times I$, where V is voltage and I is current."
+"In a DC motor, torque ($T$) is proportional to the armature current ($I_a$) and what other quantity?",Magnetic flux ($\phi$).
+"In a truth table for a logical AND gate with inputs A and B, when is the output Y equal to 1 (or ON)?",Only when both input A and input B are 1 (or ON).
+The formula for the volume of a solid generated by rotating a curve $y=f(x)$ around the x-axis from $x=a$ to $x=b$ is given by the integral $V = \pi \int_a^b [f(x)]^2 dx$. What is this method called?,The Disk Method.
+What is the main function of the 'dam' in a hydroelectric power plant?,"To store a large body of water, creating potential energy."
+"In statistical analysis for grading patterns, what does the standard deviation ($\sigma$) measure?",It measures the amount of variation or dispersion of a set of values from the mean (average).
+What is the primary role of the QCTO in the South African education system?,The Quality Council for Trades and Occupations is responsible for the quality assurance of trade and occupational qualifications.
+What is the function of a capacitor in a power supply's filter circuit?,"It smooths the pulsating DC output from the rectifier by storing charge and releasing it, reducing ripple voltage."
+What is the formula to calculate the power factor in an AC circuit?,Power Factor = $\frac{\text{True Power}}{\text{Apparent Power}}$ or $\cos(\phi)$.
+"In the context of the NATED curriculum, what is Electrical Trade Theory?","It is a subject that covers the theoretical principles behind electrical installations, components, and systems for artisans."
+What is the primary advantage of a digital intake form over a paper one?,"Efficiency, as data can be completed, submitted, and stored instantly, enabling quick access and analysis."
+"In Boolean algebra, the expression $A + (B \cdot \overline{B})$ simplifies to what?","It simplifies to A, because $B \cdot \overline{B}$ equals 0."
+A _____ is a semiconductor device that allows current to flow in only one direction.,diode
+What is the purpose of the 5S Methodology in lean manufacturing?,"It is a system to reduce waste and optimize productivity through maintaining an orderly workplace (Sort, Set in order, Shine, Standardize, Sustain)."
+What does a measurement of infinite resistance (infinity ?) between two points in a circuit indicate?,An open circuit.
+What is the purpose of flux when soldering electronic components?,"It cleans the metal surfaces to be soldered, removing oxidation and allowing the solder to flow smoothly and form a strong bond."
+"In a UPS (Uninterruptible Power Supply), what does the 'changeover time' specify?",It specifies the duration it takes for the UPS to switch from mains power to its internal battery power during an outage.
+What is the primary function of a transformer in an electrical power system?,"To change AC voltage levels, either stepping them up for transmission or stepping them down for distribution and use."
+What is the purpose of a thermistor in an electronic circuit?,"It is a resistor whose resistance changes significantly with temperature, used for temperature sensing and control."
+"In South Africa's vocational education, what does NCV stand for?",National Certificate (Vocational).
+What is the Shannon-Hartley theorem used to calculate?,It calculates the maximum rate at which information can be transmitted over a communication channel of a specified bandwidth in the presence of noise.
+What is the key difference between supervised and unsupervised machine learning?,"Supervised learning uses labeled data to train models, while unsupervised learning works with unlabeled data to find patterns or structures."
+"In RF communications, what is a link budget analysis used for?",It is a calculation involving all gains and losses of a communication signal to predict the signal strength at the receiver.
+What is the role of the South African institution MERSETA?,"It is the Sector Education and Training Authority (SETA) for Manufacturing, Engineering and Related Services."
+"The formula $P = \frac{(0.5/60) \cdot 2 \times 10^6}{0.85} \approx 19.6\,\text{kW}$ is used to calculate the power output of what type of device?",A hydraulic pump.
+What is the purpose of an operational amplifier (op-amp)?,"It is a high-gain voltage amplifier with a differential input, used in a variety of analog signal processing circuits like amplifiers, filters, and oscillators."
+What law is represented by the formula $F = k \frac{q_1 q_2}{r^2}$?,"Coulomb's Law, which describes the electrostatic force between two charged particles."
+"In a three-phase system, what is the phase difference between each of the voltage waveforms?",120 degrees.
+What is the primary purpose of an induction motor's squirrel cage rotor?,"It is a simple, rugged rotor where the rotating magnetic field from the stator induces a current, creating torque without needing brushes or slip rings."
+What is the function of a circuit breaker in an electrical panel?,It is an automatic safety switch that interrupts current flow in case of an overload or short circuit to protect the circuit and prevent fire.
+The formula $T = 3 \frac{s E_0^2}{2\pi n (R_2^2 + [S.X_0]^2)}$ calculates what parameter in an AC machine?,Torque (T).
+What is the definition of Young's Modulus in materials science?,"It is a measure of a material's stiffness, defined as the ratio of stress to strain in the elastic region."
+"In digital logic, a(n) ____ gate produces a high output (1) only if all its inputs are high (1).",AND
+What does 'psychometric testing' aim to measure in a career guidance context?,"It aims to objectively measure an individual's aptitudes, personality traits, and cognitive abilities to help align them with suitable career paths."
+"In the context of electrical machines, what is the Hopkinson test used for?","It is a method for testing the efficiency of DC machines by coupling two identical machines together, minimizing power loss during the test."
+What is the function of a commutator and brushes in a DC motor?,"They work together to reverse the direction of current in the armature coil every half rotation, ensuring continuous torque in one direction."
+The formula $\text{Final Mark} = (0.4 \cdot \text{ICASS Mark}) + (0.6 \cdot \text{EISA Mark})$ is used to calculate what?,The final promotional mark for a NATED subject in South Africa.
+What is the principle of a PID controller in an automated system?,"It continuously calculates an error value as the difference between a desired setpoint and a measured process variable and applies a correction based on Proportional, Integral, and Derivative terms."
+What is the purpose of a rectifier in an AC/DC power supply?,"Its purpose is to convert alternating current (AC), which periodically reverses direction, to direct current (DC), which flows in only one direction."
+"In a three-phase system, what is the difference between a star (wye) and a delta connection?","In a star connection, the ends of the three phases are connected to a common neutral point, whereas in a delta connection, the three phases are connected in series to form a closed loop."
